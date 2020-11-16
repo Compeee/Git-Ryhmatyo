@@ -1,2 +1,2 @@
 # Git-Ryhmatyo
-GitHarjoitus2
+Git Harjoitus 2
